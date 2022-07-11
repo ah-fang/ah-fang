@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ah-fang
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 
 
