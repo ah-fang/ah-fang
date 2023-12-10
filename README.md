@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ah-fang
-- 👀 I’m interested in web development
+- 👀 I’m interested in fullstack web development
 
 
 <!-- 💞️ I’m looking to collaborate on ...
